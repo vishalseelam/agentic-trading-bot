@@ -98,10 +98,3 @@ streamlit run streamlit_ui.py
   - Request body: `{"question": "your question here"}`
   - Returns: `{"answer": "bot response here"}`
 
-## License
-
-[Include your license information here]
-
-## Contributing
-
-[Include contribution guidelines here]
