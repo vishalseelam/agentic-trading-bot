@@ -1,14 +1,5 @@
 # Agentic Trading Bot
 
-## Problem Statement
-In today's complex financial markets, traders and analysts face information overload when making investment decisions. Traditional methods of financial analysis are time-consuming and often lack the ability to synthesize information from multiple sources in real-time. There's a need for an intelligent system that can:
-
-1. Process and understand financial documents (reports, analyses, news)
-2. Retrieve real-time market data
-3. Answer complex queries by combining document knowledge with live financial information
-4. Present this information in a conversational, easy-to-understand format
-
-## Solution
 The Agentic Trading Bot is an AI-powered conversational system that combines document retrieval capabilities with real-time financial data integration. It uses Large Language Models (LLMs) and a graph-based agent architecture to provide intelligent responses to stock market queries.
 
 ## Features
